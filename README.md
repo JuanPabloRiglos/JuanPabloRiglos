@@ -12,6 +12,11 @@
 - > 🔧 Finalmente entre mis colaboraciones, puede verse el producto "Tu Lugar" realizado como proyecto grupal integrador en Digital House, del cual estoy bastante orgulloso. 
 
 Perfil en formación y con hambre de futuro... 😄
+
+📫 juanpabloriglos@gmail.com
+
+💬 https://www.linkedin.com/in/juanpabloriglos/
+
 <!--
 **JuanPabloRiglos/JuanPabloRiglos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
