@@ -1,3 +1,7 @@
+<div> 
+  <a href="https://giphy.com/gifs/PLCnext-plcnext-phoenixcontact-plcnexttechnology-fwbZnTftCXVocKzfxR">via GIPHY</a></p>
+  <div/>
+
 ### Hi there 👋
 
 <!--
