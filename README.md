@@ -1,5 +1,5 @@
 <div id='header' alaing='center'> 
- <img src="https://giphy.com/embed/fwbZnTftCXVocKzfxR" width="480" height="340" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+ <img src="https://giphy.com/embed/fwbZnTftCXVocKzfxR" width="280" height="280" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/PLCnext-plcnext-phoenixcontact-plcnexttechnology-fwbZnTftCXVocKzfxR">via GIPHY</a></p>
   <div/>
 
 ### Hi there 👋
